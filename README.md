@@ -1,6 +1,6 @@
 # Building the next version of myself through Data, Product, ERP, and AI.
 
-I work at the intersection of Product Ownership, Database Systems, Data Analytics, and Enterprise Operations — continuously learning, building, and preparing for the next phase of my career journey.
+I work at the intersection of Product Ownership, Database Systems, Data Analytics, and Enterprise Operations  continuously learning, building, and preparing for the next phase of my career journey.
 
 Currently exploring AI-driven workflows, intelligent automation, data storytelling, and modern product thinking while leveraging my experience in Agile delivery, ERP ecosystems, stakeholder management, and operational transformation.
 
