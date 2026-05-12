@@ -27,16 +27,16 @@ My sweet spot? Taking messy data and turning it into meaningful insights that dr
 ```
 Languages & Frameworks | Data & Analytics | Platforms & Tools
 ├─ Python              │ ├─ SQL           │ ├─ Tableau/Power BI
-├─ JavaScript/TypeScript│ ├─ Excel (Power)  │ ├─ Salesforce
-└─ SQL                 │ └─ Statistical   │ ├─ SAP/Oracle
-                       │    Analysis      └─ Cloud (AWS/GCP)
+├─ Progress            │ ├─ Excel (Power) │ ├─ Salesforce
+└─ MYSQL               │ └─ Statistical   │ ├─ Oracle
+                       │    Analysis      └─ Cloud (AWS)
 ```
 
 ---
 
 ## 📚 This Space Is...
 
-A blend of my **transition, experiments, and learnings** as I level up toward becoming a stronger **AI-enabled Product & Data professional**. Think of it as my learning lab — where ideas get tested, insights get documented, and growth gets tracked.
+A blend of my **transition, experiments, and learnings** as I level up toward becoming a stronger **AI-enabled Product & Data professional**. Think of it as my learning lab where ideas get tested, insights get documented, and growth gets tracked.
 
 ---
 
