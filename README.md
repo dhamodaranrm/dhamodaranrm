@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Dhamodaranrm
+# 👋 Hey there! I'm Dhamodaran
 
 > Building the next version of myself through **Data**, **Product**, **ERP**, and **AI** — one experiment at a time.
 
